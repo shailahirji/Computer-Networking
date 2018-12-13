@@ -1,0 +1,3 @@
+This program runs both client and server side on your machine. It computes simple arithmetic operations based on the operation and operands given via the client server. The server side will compute the output of the operation and print on server console. 
+
+The goal of this program is to learn how UDP works and how packets are transfer between client and server. 
