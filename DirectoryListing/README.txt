@@ -1,4 +1,4 @@
-This program creates a web directory treating webfoot as the source directory. 
+This program creates a web directory treating webroot as the source directory. 
 
 It handles GET and HEAD requests and responds with HTTP 1.1 response headers. 
 
